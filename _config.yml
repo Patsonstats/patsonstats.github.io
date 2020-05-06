@@ -3,3 +3,4 @@ title: patsonstats
 name: patsonstats
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+google_analytics: UA-165615917-1
